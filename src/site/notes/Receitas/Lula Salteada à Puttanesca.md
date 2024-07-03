@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/receitas/lula-salteada-a-puttanesca/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Receitas/Lula Salteada à Puttanesca/"}
 ---
 
 **Fonte**: [Walder Wellness](https://www.walderwellness.com/healthy-puttanesca-style-sauteed-squid/#recipe)

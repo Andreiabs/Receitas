@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/receitas/untitled/"}
+{"dg-publish":true,"permalink":"/Receitas/Untitled/"}
 ---
 
 
