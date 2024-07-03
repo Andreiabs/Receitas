@@ -17,10 +17,16 @@
 	- 🧁[[Cupcakes\|Cupcakes]]
 	- 🍧[[Gelados\|Gelados]]
 🍲[[Organizar/Sopas\|Sopas]]
-🌿[[Vegetarianos\|Vegetarianos]]
+🌿[[Organizar/Vegetarianos\|Vegetarianos]]
 
 
 
+**Por Testar**
+- [[Receitas/COMIDA/Air Fryer Bites de Galinha\|Air Fryer Bites de Galinha]]
+- [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
+- [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
+
+{ .block-language-dataview}
 
 
 
