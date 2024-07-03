@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa Minestrone/","title":"Sopa Minestrone","tags":["💚ok","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa Minestrone/","title":"Sopa Minestrone","tags":["💚ok"]}
 ---
 
 <div style="text-align: center;"> <span style="font-size: 30px;"><b>Sopa Minestrone</b></span> </div>
