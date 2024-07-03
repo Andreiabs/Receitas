@@ -12,10 +12,10 @@
 - 25 g de azeite
 - 115 g cebola *picada*
 - 50 g aipo *picado*
-- 75 g cenouras (cenoura) *descascadas e picadas*
+- 75 g cenouras *descascadas e picadas*
 - 1 curgete *picada*
 - 2 tsp de alho *picado*
-- Sal e pimenta (pimenta preta) q.b.
+- Sal e pimenta q.b.
 - 400 g tomates enlatados
 - 950 ml caldo de legumes
 - 1/4 cup concentrado de tomate
