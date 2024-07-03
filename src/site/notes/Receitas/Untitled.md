@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/receitas/untitled/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/receitas/untitled/"}
 ---
 
 
