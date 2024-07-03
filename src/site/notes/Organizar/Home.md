@@ -4,20 +4,20 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>CATEGORIAS</b></span> </div>
 
-[[Organizar/Acompanhamentos\|Acompanhamentos]]
-[[Organizar/Crackers\|Crackers]]
-[[Organizar/Marinadas\|Marinadas]]
-[[Organizar/Molhos\|Molhos]]
-[[Prato Principal\|Prato Principal]]
-[[Organizar/Saladas\|Saladas]]
-[[Sobremesas\|Sobremesas]]
-	[[Organizar/Bolachas\|Bolachas]]
-	[[Bolos\|Bolos]]
-	[[Cremes\|Cremes]]
-	[[Cupcakes\|Cupcakes]]
-	[[Gelados\|Gelados]]
-[[Organizar/Sopas\|Sopas]]
-[[Vegetarianos\|Vegetarianos]]
+🍚[[Organizar/Acompanhamentos\|Acompanhamentos]]
+🥟[[Organizar/Crackers\|Crackers]]
+🥣[[Organizar/Marinadas\|Marinadas]]
+🧉[[Organizar/Molhos\|Molhos]]
+🍗[[Prato Principal\|Prato Principal]]
+🥗[[Organizar/Saladas\|Saladas]]
+🍭[[Sobremesas\|Sobremesas]]
+	- 🍪[[Organizar/Bolachas\|Bolachas]]
+	- 🍰[[Bolos\|Bolos]]
+	- 🍯[[Cremes\|Cremes]]
+	- 🧁[[Cupcakes\|Cupcakes]]
+	- 🍧[[Gelados\|Gelados]]
+🍲[[Organizar/Sopas\|Sopas]]
+🌿[[Vegetarianos\|Vegetarianos]]
 
 
 
