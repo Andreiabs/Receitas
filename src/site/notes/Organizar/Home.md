@@ -5,7 +5,7 @@
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>CATEGORIAS</b></span> </div>
 
 [[Organizar/Acompanhamentos\|Acompanhamentos]]
-Crackers
+[[Organizar/Crackers\|Crackers]]
 Marinadas
 Molhos
 Prato Principal
