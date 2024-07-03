@@ -12,7 +12,7 @@
 - 75 g de manteiga com sal
 - 75 g de farinha sem fermento
 - 500 g de leite
-- 2 ovos, *médios*
+- 2 ovos *médios*
 - 75 g de queijo parmesão *ralado*
 - 1 pitada de noz moscada moída
 - sal
