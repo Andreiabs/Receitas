@@ -11,7 +11,7 @@
 ---
  - 1 kg de tomates (tomate)
 - 1/4 cup de azeite
-- 1 cebola, *picada*
+- 1 cebola *picada*
 - 1 tbsp de alho *picado*
 -  manjericão fresco q.b.
 - 3-4 ramos de tomilho fresco
