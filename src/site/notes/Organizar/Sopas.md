@@ -6,5 +6,9 @@
 
 - [[Receitas/SOPAS/Sopa de Batata e Alho Francês\|Sopa de Batata e Alho Francês]]
 - [[Receitas/SOPAS/Sopa de Cebola Caramelizada e Batata\|Sopa de Cebola Caramelizada e Batata]]
+- [[Receitas/SOPAS/Sopa de Lentilhas com Limão\|Sopa de Lentilhas com Limão]]
+- [[Receitas/SOPAS/Sopa de Repolho Cremosa\|Sopa de Repolho Cremosa]]
+- [[Receitas/SOPAS/Sopa Marroquina de Abóbora e Grão de bico\|Sopa Marroquina de Abóbora e Grão de bico]]
+- [[Receitas/SOPAS/Sopa Minestrone\|Sopa Minestrone]]
 
 { .block-language-dataview}

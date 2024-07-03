@@ -4,7 +4,7 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>CATEGORIAS</b></span> </div>
 
-Acompanhamentos
+[[Organizar/Acompanhamentos\|Acompanhamentos]]
 Crackers
 Marinadas
 Molhos
@@ -42,6 +42,3 @@ Ingrediente== Canela em Pó
 | ----------------- | ------------ | ------- |
 
 { .block-language-dataview}
-
-
-<printfriendly-options style="display:none;" data-content-features="disableClickToDel=0;hideImages=0;imageDisplayStyle=block;disablePDF=0;disableEmail=0;disablePrint=0;encodeImages=0;showHiddenContent=0;"></printfriendly-options><script>var pfBtVersion='3';(function(){var js,pf;pf=document.createElement('script');pf.type='text/javascript';pf.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')[0].appendChild(pf)})();</script><a href="https://www.printfriendly.com" style="color:#6D9F00;text-decoration:none;" class="printfriendly" onclick="window.print();return false;" title="Printer Friendly and PDF"><img style="border:none;-webkit-box-shadow:none;box-shadow:none;" src="//cdn.printfriendly.com/buttons/new/print-light-blue.svg" alt="Print Friendly and PDF"/></a>
