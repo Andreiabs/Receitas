@@ -13,12 +13,12 @@
 - 2 tsp de fermento de padeiro
 - 1 tbsp de açúcar
 - 180 ml de leite
-- 43 g de manteiga sem sal*amolecida à temperatura ambiente*
+- 43 g de manteiga sem sal *amolecida à temperatura ambiente*
 - 1 ovo grande
 - 291 g de farinha sem fermento
 - 1 tsp de sal
 - 1 tsp de alho em pó
-- 1 tbsp de alecrim fresco*finamente picado* *(ou 2 tsp de alecrim seco*
+- 1 tbsp de alecrim fresco *finamente picado* *(ou 2 tsp de alecrim seco*
 
 **Recheio:**
 - 71 g de manteiga sem sal
