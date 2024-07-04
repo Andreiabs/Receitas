@@ -8,7 +8,7 @@
 🥟[[Organizar/Crackers\|Crackers]]
 🥣[[Organizar/Marinadas\|Marinadas]]
 🧉[[Organizar/Molhos\|Molhos]]
-🍗[[Prato Principal\|Prato Principal]]
+🍗[[Organizar/Pratos Principais\|Pratos Principais]]
 🥗[[Organizar/Saladas\|Saladas]]
 🍭[[Sobremesas\|Sobremesas]]
 	- 🍪[[Organizar/Bolachas\|Bolachas]]
