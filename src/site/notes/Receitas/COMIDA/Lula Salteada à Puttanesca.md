@@ -11,14 +11,14 @@
 ---
 - 450 g de Lula, *cortadas em anéis*
 - 1/4 cup de azeite
-- 5 dentes de alho, *picados*
+- 5 dentes de alho *picados*
 - 1/2 cup de tomate seco
 - 1/3 cup de azeitonas *sem caroço*
 - 1 tbsp alcaparras *escorridas*
 - 1 tsp de flocos de chili
 - manjericão fresco *rasgado*
 - salsa fresca *picada*
-- 1 limão, *raspa + sumo*
+- 1 limão *raspa + sumo*
 - Pimenta preta
 ---
 1. Aqueça o azeite numa frigideira grande em lume médio alto.
