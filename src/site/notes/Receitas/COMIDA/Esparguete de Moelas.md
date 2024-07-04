@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/COMIDA/Esparguete de Moelas/","title":"Esparguete de Moelas","tags":["🔤Traduzir"]}
+{"dg-publish":true,"permalink":"/Receitas/COMIDA/Esparguete de Moelas/","title":"Esparguete de Moelas","tags":["🏡Casa"]}
 ---
 
 <div style="text-align: center;"> <span style="font-size: 30px;"><b>Esparguete de Moelas</b></span> </div>
@@ -19,6 +19,6 @@
 ---
 1. Corte as moelas em pedaços. 
 2. Doure a cebola em margarina e junte o alho.
-3. Adicione as moelas, o caldo *Knorr*, a polpa de tomate, o vinho e mexa. 
+3. Adicione as moelas, o cubo de caldo, a polpa de tomate, o vinho e mexa. 
 4. Tape e deixe cozinhar até as moelas ficarem tenras. 
 5. Junte às moelas o esparguete previamente cozido e sirva.
