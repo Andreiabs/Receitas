@@ -4,6 +4,8 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>VEGETARIANOS</b></span> </div>
 
+- [[Receitas/ACOMPANHAMENTOS/Air Fryer - Batatas em Gomos\|Air Fryer - Batatas em Gomos]]
+- [[Receitas/COMIDA/Bolonhesa de Soja\|Bolonhesa de Soja]]
 - [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
 - [[Receitas/CRACKERS/Crackers de Azeite e Alho\|Crackers de Azeite e Alho]]
 - [[Receitas/CRACKERS/Crackers de Sementes\|Crackers de Sementes]]
