@@ -6,6 +6,7 @@
 
 - [[Receitas/SOBREMESAS/Barras de Limão com Crumble de Aveia\|Barras de Limão com Crumble de Aveia]]
 - [[Receitas/SOBREMESAS/Compota de Maçã e Chia\|Compota de Maçã e Chia]]
+- [[Receitas/SOBREMESAS/Crumble de Banana, Pêra e Chocolate\|Crumble de Banana, Pêra e Chocolate]]
 - [[Receitas/SOBREMESAS/Filhós no Forno ou Fofas\|Filhós no Forno ou Fofas]]
 - [[Receitas/SOBREMESAS/Lemon Curd\|Lemon Curd]]
 - [[Receitas/SOBREMESAS/Pudim de Limão\|Pudim de Limão]]

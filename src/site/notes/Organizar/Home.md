@@ -24,6 +24,8 @@
 **Por Testar**
 - [[Receitas/COMIDA/Air Fryer - Bites de Galinha\|Air Fryer - Bites de Galinha]]
 - [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
+- [[Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco\|Crackers de Manjericão e Tomate Seco]]
 - [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
+- [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 
 { .block-language-dataview}
