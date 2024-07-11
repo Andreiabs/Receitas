@@ -20,6 +20,7 @@
 - [[Receitas/COMIDA/Frango Assado no Forno com Ervas e Citrinos\|Frango Assado no Forno com Ervas e Citrinos]]
 - [[Receitas/COMIDA/Frango com Alho e Paprika\|Frango com Alho e Paprika]]
 - [[Receitas/COMIDA/Frango com Iogurte e Limão\|Frango com Iogurte e Limão]]
+- [[Receitas/COMIDA/Frango com Limão e Orzo\|Frango com Limão e Orzo]]
 - [[Receitas/COMIDA/Frango com Nozes e Sálvia e Molho de Manteiga\|Frango com Nozes e Sálvia e Molho de Manteiga]]
 - [[Receitas/COMIDA/Frango Enrolado em Bacon\|Frango Enrolado em Bacon]]
 - [[Receitas/COMIDA/Lula Salteada à Puttanesca\|Lula Salteada à Puttanesca]]
