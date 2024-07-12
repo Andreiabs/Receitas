@@ -17,6 +17,7 @@
 - [[Receitas/MOLHOS/Molho de Tomate Assado\|Molho de Tomate Assado]]
 - [[Receitas/ACOMPANHAMENTOS/Pão com Alho e Alecrim\|Pão com Alho e Alecrim]]
 - [[Receitas/SALADAS/Salada com Grão de Bico Crocante\|Salada com Grão de Bico Crocante]]
+- [[Receitas/ACOMPANHAMENTOS/Salada de Batata\|Salada de Batata]]
 - [[Receitas/ACOMPANHAMENTOS/Salada de Feijão e Pepino\|Salada de Feijão e Pepino]]
 - [[Receitas/SOPAS/Sopa Cremosa de Couve-flor e Alho Francês\|Sopa Cremosa de Couve-flor e Alho Francês]]
 - [[Receitas/SOPAS/Sopa Cremosa de Curgete com Hortelã e Ervilhas\|Sopa Cremosa de Curgete com Hortelã e Ervilhas]]

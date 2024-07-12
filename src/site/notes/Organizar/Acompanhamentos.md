@@ -8,6 +8,7 @@
 - [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
 - [[Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim\|Massa com Limão, Alho e Alecrim]]
 - [[Receitas/ACOMPANHAMENTOS/Pão com Alho e Alecrim\|Pão com Alho e Alecrim]]
+- [[Receitas/ACOMPANHAMENTOS/Salada de Batata\|Salada de Batata]]
 - [[Receitas/ACOMPANHAMENTOS/Salada de Feijão e Pepino\|Salada de Feijão e Pepino]]
 
 { .block-language-dataview}
