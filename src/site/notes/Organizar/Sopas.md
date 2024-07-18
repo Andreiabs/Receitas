@@ -5,6 +5,7 @@
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>SOPAS</b></span> </div>
 
 - [[Receitas/SOPAS/Creme de Legumes Verdes\|Creme de Legumes Verdes]]
+- [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/SOPAS/Sopa Cremosa de Couve-flor e Alho Francês\|Sopa Cremosa de Couve-flor e Alho Francês]]
 - [[Receitas/SOPAS/Sopa Cremosa de Curgete com Hortelã e Ervilhas\|Sopa Cremosa de Curgete com Hortelã e Ervilhas]]
 - [[Receitas/SOPAS/Sopa de Batata com Brócolos\|Sopa de Batata com Brócolos]]
