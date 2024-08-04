@@ -27,6 +27,7 @@
 - [[Receitas/COMIDA/Mini Almôndegas\|Mini Almôndegas]]
 - [[Receitas/COMIDA/One-pan Massa de Atum\|One-pan Massa de Atum]]
 - [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
+- [[Receitas/COMIDA/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 
 { .block-language-dataview}
