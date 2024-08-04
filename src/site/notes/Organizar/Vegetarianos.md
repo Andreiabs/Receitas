@@ -11,6 +11,7 @@
 - [[Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco\|Crackers de Manjericão e Tomate Seco]]
 - [[Receitas/CRACKERS/Crackers de Sementes\|Crackers de Sementes]]
 - [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
+- [[Receitas/SOPAS/Creme de Curgete com Manjericão, Amêndoa e Balsâmico\|Creme de Curgete com Manjericão, Amêndoa e Balsâmico]]
 - [[Receitas/SOPAS/Creme de Legumes Verdes\|Creme de Legumes Verdes]]
 - [[Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim\|Massa com Limão, Alho e Alecrim]]
 - [[Receitas/MOLHOS/Molho Bechamel\|Molho Bechamel]]

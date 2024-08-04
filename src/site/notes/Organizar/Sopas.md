@@ -4,6 +4,7 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>SOPAS</b></span> </div>
 
+- [[Receitas/SOPAS/Creme de Curgete com Manjericão, Amêndoa e Balsâmico\|Creme de Curgete com Manjericão, Amêndoa e Balsâmico]]
 - [[Receitas/SOPAS/Creme de Legumes Verdes\|Creme de Legumes Verdes]]
 - [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/SOPAS/Sopa Cremosa de Couve-flor e Alho Francês\|Sopa Cremosa de Couve-flor e Alho Francês]]

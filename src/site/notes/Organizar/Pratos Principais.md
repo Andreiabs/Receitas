@@ -26,6 +26,7 @@
 - [[Receitas/COMIDA/Lula Salteada à Puttanesca\|Lula Salteada à Puttanesca]]
 - [[Receitas/COMIDA/Mini Almôndegas\|Mini Almôndegas]]
 - [[Receitas/COMIDA/One-pan Massa de Atum\|One-pan Massa de Atum]]
+- [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 
 { .block-language-dataview}
