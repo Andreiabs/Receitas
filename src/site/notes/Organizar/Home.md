@@ -26,7 +26,9 @@
 - [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
 - [[Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco\|Crackers de Manjericão e Tomate Seco]]
 - [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
+- [[Receitas/SOBREMESAS/CREMES/Curd de Maracujá\|Curd de Maracujá]]
 - [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
+- [[Receitas/SOBREMESAS/PUDINS/Semifrio de Leite Condensado e Limão\|Semifrio de Leite Condensado e Limão]]
 
 { .block-language-dataview}
