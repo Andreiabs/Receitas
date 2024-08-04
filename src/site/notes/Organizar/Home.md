@@ -31,6 +31,7 @@
 - [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/COMIDA/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
+- [[Receitas/SOBREMESAS/Pudim de Chocolate Cremoso\|Pudim de Chocolate Cremoso]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 - [[Receitas/SOBREMESAS/Semifrio de Leite Condensado e Limão\|Semifrio de Leite Condensado e Limão]]
 

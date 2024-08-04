@@ -10,6 +10,7 @@
 - [[Receitas/SOBREMESAS/CREMES/Curd de Maracujá\|Curd de Maracujá]]
 - [[Receitas/SOBREMESAS/Filhós no Forno ou Fofas\|Filhós no Forno ou Fofas]]
 - [[Receitas/SOBREMESAS/CREMES/Lemon Curd\|Lemon Curd]]
+- [[Receitas/SOBREMESAS/Pudim de Chocolate Cremoso\|Pudim de Chocolate Cremoso]]
 - [[Receitas/SOBREMESAS/Pudim de Limão\|Pudim de Limão]]
 - [[Receitas/SOBREMESAS/Semifrio de Leite Condensado e Limão\|Semifrio de Leite Condensado e Limão]]
 
