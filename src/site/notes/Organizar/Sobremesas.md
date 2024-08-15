@@ -9,6 +9,7 @@
 - [[Receitas/SOBREMESAS/Crumble de Banana, Pêra e Chocolate\|Crumble de Banana, Pêra e Chocolate]]
 - [[Receitas/SOBREMESAS/CREMES/Curd de Maracujá\|Curd de Maracujá]]
 - [[Receitas/SOBREMESAS/Filhós no Forno ou Fofas\|Filhós no Forno ou Fofas]]
+- [[Receitas/SOBREMESAS/Galette de Amêndoa e Nectarina\|Galette de Amêndoa e Nectarina]]
 - [[Receitas/SOBREMESAS/CREMES/Lemon Curd\|Lemon Curd]]
 - [[Receitas/SOBREMESAS/Pudim de Chocolate Cremoso\|Pudim de Chocolate Cremoso]]
 - [[Receitas/SOBREMESAS/Pudim de Limão\|Pudim de Limão]]
