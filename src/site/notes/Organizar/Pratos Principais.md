@@ -15,6 +15,7 @@
 - [[Receitas/COMIDA/Coxas de Frango com Mel, Limão e Alho\|Coxas de Frango com Mel, Limão e Alho]]
 - [[Receitas/COMIDA/Coxas de Frango na Frigideira\|Coxas de Frango na Frigideira]]
 - [[Receitas/COMIDA/Empadão de Batata Doce\|Empadão de Batata Doce]]
+- [[Receitas/COMIDA/Entrecosto com Molho Barbecue no Forno\|Entrecosto com Molho Barbecue no Forno]]
 - [[Receitas/COMIDA/Esparguete de Moelas\|Esparguete de Moelas]]
 - [[Receitas/COMIDA/Frango à Colheita\|Frango à Colheita]]
 - [[Receitas/COMIDA/Frango Assado no Forno com Ervas e Citrinos\|Frango Assado no Forno com Ervas e Citrinos]]
@@ -28,7 +29,7 @@
 - [[Receitas/COMIDA/One-pan Massa de Atum\|One-pan Massa de Atum]]
 - [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/COMIDA/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
-- [[Receitas/COMIDA/Ribs de Porco com Molho Barbecue no Forno\|Ribs de Porco com Molho Barbecue no Forno]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
+- [[Receitas/COMIDA/Salada de Atum e Batata\|Salada de Atum e Batata]]
 
 { .block-language-dataview}
