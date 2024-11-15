@@ -17,6 +17,7 @@
 - [[Receitas/SOPAS/Sopa de Couve Roxa\|Sopa de Couve Roxa]]
 - [[Receitas/SOPAS/Sopa de Couve Rústica\|Sopa de Couve Rústica]]
 - [[Receitas/SOPAS/Sopa de Feijão Frade Fumado\|Sopa de Feijão Frade Fumado]]
+- [[Receitas/SOPAS/Sopa de Galinha, Limão e Orzo\|Sopa de Galinha, Limão e Orzo]]
 - [[Receitas/SOPAS/Sopa de Grão de Bico, Lentilhas Vermelhas e Legumes\|Sopa de Grão de Bico, Lentilhas Vermelhas e Legumes]]
 - [[Receitas/SOPAS/Sopa de Lentilhas com Limão\|Sopa de Lentilhas com Limão]]
 - [[Receitas/SOPAS/Sopa de Repolho Cremosa\|Sopa de Repolho Cremosa]]
