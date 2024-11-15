@@ -9,8 +9,8 @@
 <div style="text-align: center;"> <span style="font-size: 16px;">  Bolachas | 150 min </span> </div>
 
 ---
- - 110 g de manteiga, *à temperatura ambiente*
- - 75 g de açúcar
+ - [ ] 110 g de manteiga, *à temperatura ambiente*
+ - [ ] 75 g de açúcar
  - 142 g de farinha sem fermento
  - 1/4 tsp de sal
  - 40 g de iogurte natural, *à temperatura ambiente*
