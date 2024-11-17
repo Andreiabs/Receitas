@@ -9,13 +9,13 @@
 <div style="text-align: center;"> <span style="font-size: 16px;">  Bolachas | 150 min </span> </div>
 
 ---
- - [ ] 110 g de manteiga, *à temperatura ambiente*
- - [ ] 75 g de açúcar
- - 142 g de farinha sem fermento
+ - 110 g de manteiga, *à temperatura ambiente*
+ - 75 g de açúcar
+ -  142 g de farinha sem fermento
  - 1/4 tsp de sal
  - 40 g de iogurte natural, *à temperatura ambiente*
  - 10 g de natas 
- - 1/2 tsp de extrato de baunilha
+ - 1/2 tsp de extrato de baunilha 
 ---
 1. Bater a manteiga e o açúcar até ficar macio e cremoso, 3-4 min utilizando uma batedeira.
 2. Em seguida, adicione o iogurte natural, as natas, o sal e a baunilha. Misture até combinar.

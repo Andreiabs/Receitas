@@ -26,6 +26,7 @@
 3. Misture os alhos laminados, as folhas do tomilho e o vinho do Porto e cozinhe 5 minutos. 
 4. Transfira a mistura para um robô de cozinha, junte a restante manteiga e o sal e triture até formar uma pasta lisa. 
 5. Coloque num recipiente, polvilhe com pimenta e leve ao frio. 
+
 **Cebola**: 
 1. Derreta a manteiga numa panela. 
 2. Vá adicionando aos poucos as cebolas cortadas em fatias finas e cozinhe, mexendo sempre, até ficarem translúcidas.
