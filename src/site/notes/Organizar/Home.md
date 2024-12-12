@@ -37,3 +37,10 @@
 - [[Receitas/SOBREMESAS/Semifrio de Leite Condensado e Limão\|Semifrio de Leite Condensado e Limão]]
 
 { .block-language-dataview}
+
+
+| File                                                                     | title             | tags | foto                                  |
+| ------------------------------------------------------------------------ | ----------------- | ---- | ------------------------------------- |
+| [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]] | Bolachas de Limão | 💚ok | ![](https://i.imgur.com/KIAfu3y.jpeg) |
+
+{ .block-language-dataview}
