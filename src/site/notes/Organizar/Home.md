@@ -44,3 +44,10 @@
 | [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]] | Bolachas de Limão | 💚ok | ![](https://i.imgur.com/KIAfu3y.jpeg) |
 
 { .block-language-dataview}
+
+
+| File                                                                     | Poster                                |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]] | ![](https://i.imgur.com/KIAfu3y.jpeg) |
+
+{ .block-language-dataview}
