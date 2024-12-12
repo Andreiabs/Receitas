@@ -22,3 +22,4 @@
 5. Trabalhando rapidamente, enrole a massa entre as palmas das mãos em bolas do tamanho de nozes. Achate as bolinhas de com as costas do garfo.
 6. Asse os biscoitos no forno pré-aquecido por 5 minutos, depois abaixe a temperatura para 170°C/150°C com ventoinha, por mais 15-20 minutos.
 7. Os biscoitos devem ficar firmes por cima, mas não duros. Retire do forno e transfira para uma rede, antes de guardar num recipiente hermético.
+

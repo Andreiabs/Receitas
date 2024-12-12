@@ -39,9 +39,9 @@
 { .block-language-dataview}
 
 
-| File                                                                       | foto                                      |
-| -------------------------------------------------------------------------- | ----------------------------------------- |
-| [[Receitas/SOBREMESAS/BOLACHAS/Biscoitos de Cacau\|Biscoitos de Cacau]] | ![](https://i.imgur.com/KIAfu3y.jpeg\|50) |
-| [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]]   | ![](https://i.imgur.com/9viI3am.jpeg)     |
+| File                                                                       | foto                                  |
+| -------------------------------------------------------------------------- | ------------------------------------- |
+| [[Receitas/SOBREMESAS/BOLACHAS/Biscoitos de Cacau\|Biscoitos de Cacau]] | ![](https://i.imgur.com/MjbNHCp.jpeg) |
+| [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]]   | ![](https://i.imgur.com/dvIxerK.png)  |
 
 { .block-language-dataview}
