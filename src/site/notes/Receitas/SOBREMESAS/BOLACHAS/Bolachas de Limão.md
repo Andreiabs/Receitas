@@ -21,8 +21,3 @@
 4. Estique a massa para ficar com uma espessura de 0.5 cm e corte as bolachas com um cortador.
 5. Coloque num tabuleiro forrado com papel vegetal e cozinhe durante 6 a 10 minutos até começarem a dourar. 
 6. Retire do forno e deixe arrefecer por completo.
-
-
-![](https://i.imgur.com/cpfh85l.png)
- aa
- 
