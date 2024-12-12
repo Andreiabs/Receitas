@@ -29,6 +29,7 @@
 - [[Receitas/COMIDA/One-pan Massa de Atum\|One-pan Massa de Atum]]
 - [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/COMIDA/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
+- [[Receitas/COMIDA/Porco Assado com Limão e Alho\|Porco Assado com Limão e Alho]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 - [[Receitas/COMIDA/Salada de Atum e Batata\|Salada de Atum e Batata]]
 

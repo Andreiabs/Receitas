@@ -39,9 +39,7 @@
 { .block-language-dataview}
 
 
-| File                                                                       | foto                                      |
-| -------------------------------------------------------------------------- | ----------------------------------------- |
-| [[Receitas/SOBREMESAS/BOLACHAS/Biscoitos de Cacau\|Biscoitos de Cacau]] | ![[Pasted image 20241212163806.png\|200]] |
-| [[Receitas/SOBREMESAS/BOLACHAS/Bolachas de Limão\|Bolachas de Limão]]   | ![](https://i.imgur.com/dvIxerK.png)      |
+| File | foto |
+| ---- | ---- |
 
 { .block-language-dataview}
