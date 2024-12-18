@@ -23,4 +23,4 @@
 4. Prepare um saco de confeiteiro com ponta estrela e recheie com massa.
 5. Faça formas de sss com a massa num tabuleiro forrado com papel vegetal.
 6. Coloque as bolachas por **2 horas** no frigorifico e leve ao forno a 177ºC até dourar por 10 a 12 minutos, deixe arrefecer completamente. 
-7. Mergulhe no chocolate e sirva.
+7. Mergulhe no chocolate e sirva

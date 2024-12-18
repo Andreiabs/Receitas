@@ -11,11 +11,11 @@
 🍗[[Organizar/Pratos Principais\|Pratos Principais]]
 🥗[[Organizar/Saladas\|Saladas]]
 🍭[[Organizar/Sobremesas\|Sobremesas]]
-	- 🍪[[Organizar/Bolachas\|Bolachas]]
-	- 🍰[[Organizar/Bolos\|Bolos]]
-	- 🍯[[Organizar/Cremes\|Cremes]]
-	- 🧁[[Organizar/Cupcakes\|Cupcakes]]
-	- 🍧[[Organizar/Gelados\|Gelados]]
+		- 🍪[[Organizar/Bolachas\|Bolachas]]
+		- 🍰[[Organizar/Bolos\|Bolos]]
+		- 🍯[[Organizar/Cremes\|Cremes]]
+		- 🧁[[Organizar/Cupcakes\|Cupcakes]]
+		- 🍧[[Organizar/Gelados\|Gelados]]
 🍲[[Organizar/Sopas\|Sopas]]
 🌿[[Organizar/Vegetarianos\|Vegetarianos]]
 
@@ -35,11 +35,5 @@
 - [[Receitas/SOBREMESAS/Pudim de Chocolate Cremoso\|Pudim de Chocolate Cremoso]]
 - [[Receitas/COMIDA/Rosti de Batata-Doce\|Rosti de Batata-Doce]]
 - [[Receitas/SOBREMESAS/Semifrio de Leite Condensado e Limão\|Semifrio de Leite Condensado e Limão]]
-
-{ .block-language-dataview}
-
-
-| File | foto |
-| ---- | ---- |
 
 { .block-language-dataview}
