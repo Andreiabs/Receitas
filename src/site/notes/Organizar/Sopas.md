@@ -6,6 +6,7 @@
 
 - [[Receitas/SOPAS/Creme de Curgete com Manjericão, Amêndoa e Balsâmico\|Creme de Curgete com Manjericão, Amêndoa e Balsâmico]]
 - [[Receitas/SOPAS/Creme de Legumes Verdes\|Creme de Legumes Verdes]]
+- [[Receitas/SOPAS/Harira (Spiced Moroccan Vegetable Soup With Chickpeas, Cilantro, and Lemon)\|Harira (Spiced Moroccan Vegetable Soup With Chickpeas, Cilantro, and Lemon)]]
 - [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/SOPAS/Sopa Cremosa de Couve-flor e Alho Francês\|Sopa Cremosa de Couve-flor e Alho Francês]]
 - [[Receitas/SOPAS/Sopa Cremosa de Curgete com Hortelã e Ervilhas\|Sopa Cremosa de Curgete com Hortelã e Ervilhas]]

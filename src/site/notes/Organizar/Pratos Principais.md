@@ -4,7 +4,10 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>PRATOS PRINCIPAIS</b></span> </div>
 
-Frango
+
+
+<div style="text-align: left;"> <span style="font-size: 16px;"><b>Frango</b></span> </div>
+
 - [[Receitas/COMIDA/Air Fryer - Bites de Galinha\|Air Fryer - Bites de Galinha]]
 - [[Receitas/COMIDA/Coxas de Frango Assadas com Limão e Alho\|Coxas de Frango Assadas com Limão e Alho]]
 - [[Receitas/COMIDA/Coxas de Frango com Alho e Natas\|Coxas de Frango com Alho e Natas]]
@@ -14,8 +17,6 @@ Frango
 - [[Receitas/COMIDA/Frango com Iogurte e Limão\|Frango com Iogurte e Limão]]
 - [[Receitas/COMIDA/Frango com Limão e Orzo\|Frango com Limão e Orzo]]
 - [[Receitas/COMIDA/Frango com Nozes e Sálvia e Molho de Manteiga\|Frango com Nozes e Sálvia e Molho de Manteiga]]
-- [[Receitas/MARINADAS/Marinada Picante com Mel\|Marinada Picante com Mel]]
-- [[Receitas/SOPAS/Sopa de Galinha, Limão e Orzo\|Sopa de Galinha, Limão e Orzo]]
 
 { .block-language-dataview}
 

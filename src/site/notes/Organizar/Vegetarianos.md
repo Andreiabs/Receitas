@@ -13,6 +13,7 @@
 - [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
 - [[Receitas/SOPAS/Creme de Curgete com Manjericão, Amêndoa e Balsâmico\|Creme de Curgete com Manjericão, Amêndoa e Balsâmico]]
 - [[Receitas/SOPAS/Creme de Legumes Verdes\|Creme de Legumes Verdes]]
+- [[Receitas/SOPAS/Harira (Spiced Moroccan Vegetable Soup With Chickpeas, Cilantro, and Lemon)\|Harira (Spiced Moroccan Vegetable Soup With Chickpeas, Cilantro, and Lemon)]]
 - [[Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim\|Massa com Limão, Alho e Alecrim]]
 - [[Receitas/MOLHOS/Molho Bechamel\|Molho Bechamel]]
 - [[Receitas/MOLHOS/Molho de Tomate Assado\|Molho de Tomate Assado]]
