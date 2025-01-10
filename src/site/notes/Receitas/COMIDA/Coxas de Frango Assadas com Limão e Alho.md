@@ -4,7 +4,7 @@
 
 <div style="text-align: center;"> <span style="font-size: 30px;"><b>Coxas de Frango Assadas com Limão e Alho</b></span> </div>
 
-<span class="center"> <center> [foodandwine.com](https://www.foodandwine.com/recipes/lemon-and-garlic-baked-chicken-thighs)) </center></span>
+<span class="center"> <center> [foodandwine.com](https://www.foodandwine.com/recipes/lemon-and-garlic-baked-chicken-thighs)</center></span>
 
 <div style="text-align: center;"> <span style="font-size: 16px;">  Prato Principal | 75 min </span> </div>
 

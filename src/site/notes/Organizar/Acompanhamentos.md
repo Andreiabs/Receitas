@@ -4,11 +4,7 @@
 
 <div style="text-align: center;"> <span style="font-size: 20px;"><b>ACOMPANHAMENTOS</b></span> </div>
 
-- [[Receitas/ACOMPANHAMENTOS/Air Fryer - Batatas em Gomos\|Air Fryer - Batatas em Gomos]]
-- [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
-- [[Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim\|Massa com Limão, Alho e Alecrim]]
-- [[Receitas/ACOMPANHAMENTOS/Pão com Alho e Alecrim\|Pão com Alho e Alecrim]]
-- [[Receitas/ACOMPANHAMENTOS/Salada de Batata\|Salada de Batata]]
-- [[Receitas/ACOMPANHAMENTOS/Salada de Feijão e Pepino\|Salada de Feijão e Pepino]]
+- [[Receitas/Batatas em Gomos (Air Fryer)\|Batatas em Gomos (Air Fryer)]]
+- [[Receitas/Salada com Grão de Bico Crocante\|Salada com Grão de Bico Crocante]]
 
 { .block-language-dataview}

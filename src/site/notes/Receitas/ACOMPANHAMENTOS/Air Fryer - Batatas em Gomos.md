@@ -4,9 +4,9 @@
 
 <div style="text-align: center;"> <span style="font-size: 30px;"><b>Air Fryer - Batatas em Gomos</b></span> </div>
 
-<span class="center"> <center> [Insanely Good Recipes](https://insanelygoodrecipes.com/air-fryer-potato-wedges/#wpzoom-premium-recipe-card) </center></span>
+<span class="center"> <center> [Insanely Good Recipes](https://insanelygoodrecipes.com/air-fryer-potato-wedges/#wpzoom-premium-recipe-card) | 30 min</center></span>
 
-<div style="text-align: center;"> <span style="font-size: 16px;">  Acompanhamento, Vegetariano | 30 min </span> </div>
+<div style="text-align: center;"> <span style="font-size: 16px;">  </span> </div>
 
 ---
 - 2 batatas médias, cortadas em 16 fatias iguais
