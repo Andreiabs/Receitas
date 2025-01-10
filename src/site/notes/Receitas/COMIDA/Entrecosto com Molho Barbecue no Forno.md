@@ -16,7 +16,7 @@
 - 1 c. café de pimenta
 - 1 c. café de alho em pó
 - Cebolinho q.b.
-- [[Receitas/MOLHOS/Molho Barbecue\|Molho Barbecue]]
+- [[Receitas/Molho Barbecue\|Molho Barbecue]]
 ---
 1. Retire a membrana da parte detrás dos pianos.
 2. Prepare o tempero: Junte todos os ingredientes secos numa tigela e misture bem. Tempere generosamente os pianos de ambos os lados com essa mistura e embrulhe os em folha de alumínio. Leve-os ao forno pré-aquecido a 150°C por cerca de 2 horas. 

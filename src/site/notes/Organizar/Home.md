@@ -34,7 +34,6 @@
 - [[Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada\|Couve de Bruxelas e Batata Doce Assada]]
 - [[Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco\|Crackers de Manjericão e Tomate Seco]]
 - [[Receitas/CRACKERS/Crackers de Tomate\|Crackers de Tomate]]
-- [[Receitas/SOPAS/Creme de Curgete com Manjericão, Amêndoa e Balsâmico\|Creme de Curgete com Manjericão, Amêndoa e Balsâmico]]
 - [[Receitas/SOBREMESAS/CREMES/Curd de Maracujá\|Curd de Maracujá]]
 - [[Receitas/SOBREMESAS/Galette de Amêndoa e Nectarina\|Galette de Amêndoa e Nectarina]]
 - [[Receitas/SOPAS/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
