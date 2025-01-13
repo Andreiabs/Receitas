@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho César/","title":"Molho César","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho César/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Molho César</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Molho César </b></span> </div>
 
 <span class="center"> <center> [Natasha's Kitchen](https://natashaskitchen.com/perfect-ceasar-dressing-recipe/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Molho | 10 min </span> </div>
 
 ---
 - 100 ml de maionese

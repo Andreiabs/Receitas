@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada/","title":"Couve de Bruxelas e Batata Doce Assada","tags":["👁️‍🗨️Por Testar"]}
+{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Couve de Bruxelas e Batata Doce Assada/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Couve de Bruxelas e Batata Doce Assada</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Couve de Bruxelas e Batata Doce Assada </b></span> </div>
 
 <span class="center"> <center> [The Food Charlatan](https://thefoodcharlatan.com/roasted-sweet-potatoes-and-brussels-sprouts-recipe/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Acompanhamento, Vegetariano | 55 min </span> </div>
 
 ---
 - 450 g de couve de bruxelas *cortadas*

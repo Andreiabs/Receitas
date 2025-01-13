@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/COMIDA/Lula Salteada à Puttanesca/","title":"Lula Salteada à Puttanesca","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/COMIDA/Lula Salteada à Puttanesca/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Lula Salteada à Puttanesca</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Lula Salteada à Puttanesca </b></span> </div>
 
 <span class="center"> <center> [Walder Wellness](https://www.walderwellness.com/healthy-puttanesca-style-sauteed-squid/#recipe) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Prato Principal | 25 min </span> </div>
 
 ---
 - 450 g de Lula, *cortadas em anéis*

@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim/","title":"Massa com Limão, Alho e Alecrim","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Massa com Limão, Alho e Alecrim/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Massa com Limão, Alho e Alecrim</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Massa com Limão, Alho e Alecrim </b></span> </div>
 
 <span class="center"> <center> [The Blond Cook](https://theblondcook.com/lemon-garlic-rosemary-pasta/print/17442/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Acompanhamento, Vegetariano | 15 min </span> </div>
 
 ---
 - 226 g massa *cozinhada e escorrida*

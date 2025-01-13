@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho Bechamel/","title":"Molho Bechamel","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho Bechamel/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Molho Bechamel</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Molho Bechamel </b></span> </div>
 
 <span class="center"> <center> [Akis Petretzikis](https://akispetretzikis.com/en/recipe/6819/koxylia-gemista-me-kima-kai-mpesamel) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Molho, Vegetariano | 15 min </span> </div>
 
 ---
 - 75 g de manteiga com sal

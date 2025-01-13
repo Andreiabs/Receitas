@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho de Tomate Assado/","title":"Molho de Tomate Assado","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho de Tomate Assado/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Molho de Tomate Assado</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Molho de Tomate Assado </b></span> </div>
 
 <span class="center"> <center> [Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Vegetariano, Molho | 90 min </span> </div>
-
 ---
  - 1 kg de tomates (tomate)
 - 1/4 cup de azeite

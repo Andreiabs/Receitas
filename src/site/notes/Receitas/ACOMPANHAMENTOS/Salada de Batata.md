@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Salada de Batata/","title":"Salada de Batata","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Salada de Batata/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Salada de Batata</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Salada de Batata </b></span> </div>
 
 <span class="center"> <center> [Receitas Lidl](https://www.receitaslidl.pt/receitas/salada-de-batata-receitas-do-mundo-alemanha) </center></span>
 
-<div style="text-align: center;"> <span style="font-size: 16px;">  Acompanhamento, Vegetariano | 10 min </span> </div>
-
 ---
+
 - 500 g batatas *cozida*
 - 70 g cebolas *picada*
 - 2 tbsp de maionese

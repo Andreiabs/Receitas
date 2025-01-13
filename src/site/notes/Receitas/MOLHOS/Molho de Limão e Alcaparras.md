@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho de Limão e Alcaparras/","title":"Molho de Limão e Alcaparras","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/MOLHOS/Molho de Limão e Alcaparras/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Molho de Limão e Alcaparras</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Molho de Limão e Alcaparras </b></span> </div>
 
 <span class="center"> <center> [Sailor Bailey](https://sailorbailey.com/blog/tuna-potato-salad/#wprm-recipe-container-22447) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Molho | 10 min </span> </div>
 
 ---
  - 1/2 tsp endro seco

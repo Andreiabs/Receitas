@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Pão com Alho e Alecrim/","title":"Pão com Alho e Alecrim","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Pão com Alho e Alecrim/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Pão com Alho e Alecrim</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Pão com Alho e Alecrim </b></span> </div>
 
 <span class="center"> <center> [Sally's Baking Addiction](https://sallysbakingaddiction.com/rosemary-garlic-pull-apart-bread/#tasty-recipes-93361) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Vegetariano, Acompanhamento, Fermentação | 240 min </span> </div>
 
 ---
 **Massa:**

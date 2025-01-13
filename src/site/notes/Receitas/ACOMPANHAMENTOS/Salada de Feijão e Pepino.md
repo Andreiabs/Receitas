@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Salada de Feijão e Pepino/","title":"Salada de Feijão e Pepino","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/ACOMPANHAMENTOS/Salada de Feijão e Pepino/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Salada de Feijão e Pepino</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Salada de Feijão e Pepino </b></span> </div>
 
 <span class="center"> <center> [From My Bowl](https://frommybowl.com/dilly-white-bean-cucumber-salad/#wprm-recipe-container-10681) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Acompanhamento, Salada, Vegetariano | 20 min </span> </div>
 
 ---
 - 1 dente de alho *picado*
