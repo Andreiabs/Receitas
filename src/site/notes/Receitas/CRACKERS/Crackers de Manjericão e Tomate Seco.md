@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco/","title":"Crackers de Manjericão e Tomate Seco","tags":["👁️‍🗨️Por Testar"]}
+{"dg-publish":true,"permalink":"/Receitas/CRACKERS/Crackers de Manjericão e Tomate Seco/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Crackers de Manjericão e Tomate Seco</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Crackers de Manjericão e Tomate Seco </b></span> </div>
 
 <span class="center"> <center> [Oh My Veggies](https://ohmyveggies.com/basil-and-sun-dried-tomato-crackers/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Crackers, Vegetariano | 40 min </span> </div>
 
 ---
 - 125 g de farinha sem fermento

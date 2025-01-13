@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/CRACKERS/Crackers de Sementes/","title":"Crackers de Sementes","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/CRACKERS/Crackers de Sementes/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Crackers de Sementes</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Crackers de Sementes </b></span> </div>
 
 <span class="center"> <center> [Carolina Gelen](https://carolinagelen.com/4-ingredient-seed-crackers/#recipe) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Crackers, Vegetariano | 50 min </span> </div>
 
 ---
 - 1 cup de sementes de linhaça
