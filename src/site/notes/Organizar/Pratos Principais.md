@@ -16,13 +16,11 @@
 
 { .block-language-dataview}
 
-- [[Receitas/COMIDA/Empadão de Batata Doce\|Empadão de Batata Doce]]
 - [[Receitas/COMIDA/Entrecosto com Molho Barbecue no Forno\|Entrecosto com Molho Barbecue no Forno]]
 - [[Receitas/COMIDA/Esparguete de Moelas\|Esparguete de Moelas]]
 - [[Receitas/COMIDA/Frango à Colheita\|Frango à Colheita]]
 - [[Receitas/COMIDA/Frango com Alho e Paprika\|Frango com Alho e Paprika]]
 - [[Receitas/COMIDA/Mini Almôndegas\|Mini Almôndegas]]
-- [[Receitas/COMIDA/One-pan Massa de Atum\|One-pan Massa de Atum]]
 - [[Receitas/COMIDA/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/COMIDA/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
 - [[Receitas/COMIDA/Porco Assado com Limão e Alho\|Porco Assado com Limão e Alho]]
