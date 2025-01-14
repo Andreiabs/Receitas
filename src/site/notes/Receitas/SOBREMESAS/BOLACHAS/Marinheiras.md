@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Marinheiras/","title":"Marinheiras","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Marinheiras/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Marinheiras</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Marinheiras</b></span> </div>
 
 <span class="center"> <center> [A Casinha das Manas](https://www.instagram.com/acasinhadasmanas/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Bolachas | 30 min </span> </div>
 
 ---
 - 500 g de farinha sem fermento

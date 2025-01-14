@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/COMIDA/Frango à Colheita/","title":"Frango à Colheita","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/COMIDA/Frango à Colheita/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Frango à Colheita</b></span> </div>
 
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Frango à Colheita</b></span> </div>
 
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Prato Principal | 50 min </span> </div>
+<span class="center"> <center> [Well Plated](https://www.wellplated.com/chicken-apple-sweet-potato-and-brussels-sprouts-skillet/)</center></span>
 
 ---
 - 1 tbsp de azeite

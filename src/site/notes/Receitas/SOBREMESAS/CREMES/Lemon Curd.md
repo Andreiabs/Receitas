@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Lemon Curd/","title":"Lemon Curd","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Lemon Curd/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Lemon Curd</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Lemon Curd</b></span> </div>
 
 <span class="center"> <center>  [King Arthur Baking](https://www.kingarthurbaking.com/recipes/lemon-curd-recipe) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sobremesa | 15 min </span> </div>
 
 ---
 -  227 g sumo de limão *(cerca de 4)*

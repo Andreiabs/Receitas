@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Royal Icing/","title":"Royal Icing","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Royal Icing/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Royal Icing</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Royal Icing</b></span> </div>
 
 <span class="center"> <center> [The Pioneer Woman](https://www.thepioneerwoman.com/food-cooking/recipes/a83319/how-to-make-royal-icing-without-meringue-powder/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Creme | 15 min </span> </div>
 
 ---
 - 450 g de açúcar em pó

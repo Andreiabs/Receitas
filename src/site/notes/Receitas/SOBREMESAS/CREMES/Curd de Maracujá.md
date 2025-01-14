@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Curd de Maracujá/","title":"Curd de Maracujá","tags":["👁️‍🗨️Por Testar"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CREMES/Curd de Maracujá/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Curd de Maracujá</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Curd de Maracujá</b></span> </div>
 
 <span class="center"> <center> [Receitas - Continente](https://feed.continente.pt/receitas/semifrio-leite-condensado-limao-curd-maracuja) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sobremesa | 15 min </span> </div>
 
 ---
 - 2 gemas de ovo

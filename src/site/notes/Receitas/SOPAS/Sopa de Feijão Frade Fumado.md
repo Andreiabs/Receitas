@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Feijão Frade Fumado/","title":"Sopa de Feijão Frade Fumado","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Feijão Frade Fumado/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Sopa de Feijão Frade Fumado</b></span> </div>
 
-<span class="center"> <center> [The Simple Veganista (simple-veganista.com)](https://simple-veganista.com/black-eyed-pea-soup/#tasty-recipes-50891-jump-target) </center></span>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Sopa de Feijão Frade Fumado</b></span> </div>
 
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sopa, Vegetariano | 45 min </span> </div>
+<span class="center"> <center> [The Simple Veganista](https://simple-veganista.com/black-eyed-pea-soup/#tasty-recipes-50891-jump-target) </center></span>
 
 ---
  - 454 g de feijão frade

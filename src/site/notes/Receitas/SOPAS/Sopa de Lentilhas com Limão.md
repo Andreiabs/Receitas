@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Lentilhas com Limão/","title":"Sopa de Lentilhas com Limão","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Lentilhas com Limão/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Sopa de Lentilhas com Limão</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Sopa de Lentilhas com Limão</b></span> </div>
 
 <span class="center"> <center> [Gimme Some Oven](https://www.gimmesomeoven.com/lemony-lentil-soup/#tasty-recipes-61729) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sopa, Vegetariano | 35 min </span> </div>
 
 ---
 - 1 tbsp de azeite
