@@ -14,7 +14,7 @@
 - 1 tsp de paprika fumada
 - Pimenta preta
 - Sal a gosto
-- [[Receitas/Mini Almôndegas\|Mini Almôndegas]]
+- [[Receitas/COMIDA/Mini Almôndegas\|Mini Almôndegas]]
 ---
 1. Adicione o azeite, a polpa, as ervas de Provence, o açúcar mascavado, o caldo de carne e misture bem. Polvilhe o molho com paprika fumada e sal, sem mexer.
 2. Adicione as almôndegas ao molho, sem mexer. 
