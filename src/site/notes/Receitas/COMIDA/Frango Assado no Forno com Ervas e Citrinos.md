@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/COMIDA/Frango Assado no Forno com Ervas e Citrinos/","title":"Frango Assado no Forno com Ervas e Citrinos","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/COMIDA/Frango Assado no Forno com Ervas e Citrinos/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Frango Assado no Forno com Ervas e Citrinos</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Frango Assado no Forno com Ervas e Citrinos</b></span> </div>
 
 <span class="center"> <center> [The Comfort of Cooking](https://www.thecomfortofcooking.com/2013/04/herb-and-citrus-oven-roasted-chicken.html) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Prato Principal | 75 min </span> </div>
 
 ---
 - 1/4 cup de azeite

@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOPAS/Veggistrone/","title":"Veggistrone","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOPAS/Veggistrone/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Veggistrone</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Veggistrone</b></span> </div>
 
 <span class="center"> <center> [GI Consultants](https://giconsultants.com/gut-healthy-recipe-of-the-month-veggistrone/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sopa, Vegetariano | 40 min </span> </div>
 
 ---
 - 2 tbsp de azeite

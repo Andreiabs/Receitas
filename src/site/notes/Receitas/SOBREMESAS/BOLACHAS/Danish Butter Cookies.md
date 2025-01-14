@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Danish Butter Cookies/","title":"Danish Butter Cookies","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Danish Butter Cookies/"}
 ---
+
 
 <div style="text-align: center;"> <span style="font-size: 30px;"><b>Danish Butter Cookies</b></span> </div>
 
 <span class="center"> <center> [Pastry by Saloni](https://www.instagram.com/pastrybysaloni/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Bolachas | 150 min </span> </div>
 
 ---
  - 110 g de manteiga, *à temperatura ambiente*
