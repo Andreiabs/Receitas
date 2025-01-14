@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/Pudim de Chocolate Cremoso/","title":"Pudim de Chocolate Cremoso","tags":["👁️‍🗨️Por Testar"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/Pudim de Chocolate Cremoso/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Pudim de Chocolate Cremoso</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Pudim de Chocolate Cremoso </b></span> </div>
 
 <span class="center"> <center> Receitas - Continente </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sobremesa | 70 min </span> </div>
 
 ---
 - 2 c. sopa de chocolate em pó

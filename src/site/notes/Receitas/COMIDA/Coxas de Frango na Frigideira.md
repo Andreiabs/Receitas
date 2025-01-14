@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/COMIDA/Coxas de Frango na Frigideira/","title":"Coxas de Frango na Frigideira","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/COMIDA/Coxas de Frango na Frigideira/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Coxas de Frango na Frigideira</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Coxas de Frango na Frigideira </b></span> </div>
 
 <span class="center"> <center> [Two Peas & Their Pod](https://www.twopeasandtheirpod.com/easy-skillet-chicken-thighs/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Prato Principal | 25 min </span> </div>
 
 ---
 - 6 coxas de frango

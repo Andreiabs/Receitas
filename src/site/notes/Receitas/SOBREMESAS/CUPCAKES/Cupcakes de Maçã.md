@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CUPCAKES/Cupcakes de Maçã/","title":"Cupcakes de Maçã","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/CUPCAKES/Cupcakes de Maçã/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Cupcakes de Maçã</b></span> </div>
+
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Cupcakes de Maçã</b></span> </div>
 
 <span class="center"> <center>  [Sally's Baking Addiction](https://sallysbakingaddiction.com/apple-spice-cupcakes-with-salted-caramel-frosting/print/77133/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Cupcakes | 60 min </span> </div>
 
 ---
 - 188 g farinha sem fermento

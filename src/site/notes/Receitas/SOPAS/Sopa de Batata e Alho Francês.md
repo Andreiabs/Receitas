@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Batata e Alho Francês/","title":"Sopa de Batata e Alho Francês","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOPAS/Sopa de Batata e Alho Francês/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Sopa de Batata e Alho Francês</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Sopa de Batata e Alho Francês </b></span> </div>
 
 <span class="center"> <center> [Love and Lemons](https://www.loveandlemons.com/wprm_print/56008) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Sopa | 60 min </span> </div>
 
 ---
 - 3 tbsp de azeite *divididas*

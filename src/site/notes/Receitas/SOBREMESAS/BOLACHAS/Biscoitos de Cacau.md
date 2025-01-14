@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Biscoitos de Cacau/","title":"Biscoitos de Cacau","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLACHAS/Biscoitos de Cacau/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Biscoitos de Cacau</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Biscoitos de Cacau </b></span> </div>
 
 <span class="center"> <center> [Delicious Magazine](https://www.deliciousmagazine.co.uk/recipes/nigella-lawsons-chocolate-biscuits/) </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Bolachas | 45 min </span> </div>
 
 ---
 - 300 g farinha sem fermento

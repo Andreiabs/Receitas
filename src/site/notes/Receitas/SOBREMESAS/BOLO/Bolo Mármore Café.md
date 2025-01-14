@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLO/Bolo Mármore Café/","title":"Bolo Mármore Café","tags":["💚ok"]}
+{"dg-publish":true,"permalink":"/Receitas/SOBREMESAS/BOLO/Bolo Mármore Café/"}
 ---
 
-<div style="text-align: center;"> <span style="font-size: 30px;"><b>Bolo Mármore Café</b></span> </div>
+<div style="text-align: center;"> <span style="font-size: 26px;"><b> Bolo Mármore Café </b></span> </div>
 
-<span class="center"> <center> fonte </center></span>
-
-<div style="text-align: center;"> <span style="font-size: 16px;">  Bolo | 65 min </span> </div>
+<span class="center"> <center> [Broma Bakery](https://bromabakery.com/espresso-marble-cake/) </center></span>
 
 ---
 **STREUSEL:**
@@ -17,6 +15,7 @@
 -  uma pitada de sal (sal fino)
 - 2 1/2 tbsp manteiga sem sal *fria*
 - 1 tbsp pepitas chocolate
+
 **BOLO:**
 - 170 g manteiga sem sal *amolecida à temperatura ambiente*
 - 2 tsp café solúvel
