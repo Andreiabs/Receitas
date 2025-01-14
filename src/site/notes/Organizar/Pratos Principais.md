@@ -9,7 +9,6 @@
 <div style="text-align: left;"> <span style="font-size: 16px;"><b>Frango</b></span> </div>
 
 - [[Receitas/Frango com Iogurte e Limão\|Frango com Iogurte e Limão]]
-- [[Receitas/Frango com Limão e Orzo\|Frango com Limão e Orzo]]
 - [[Receitas/Frango com Nozes e Sálvia e Molho de Manteiga\|Frango com Nozes e Sálvia e Molho de Manteiga]]
 
 { .block-language-dataview}

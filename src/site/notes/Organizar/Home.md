@@ -30,7 +30,6 @@
 🏡[[Organizar/Receitas de Família\|Receitas de Família]]
 
 **Por Testar**
-- [[Receitas/Galette de Amêndoa e Nectarina\|Galette de Amêndoa e Nectarina]]
 - [[Receitas/LEMON ORZO CHICKPEA SOUP\|LEMON ORZO CHICKPEA SOUP]]
 - [[Receitas/Patê de Frango com Cebola Caramelizada\|Patê de Frango com Cebola Caramelizada]]
 - [[Receitas/Peitos de Frango com Molho de Tomate Cremoso\|Peitos de Frango com Molho de Tomate Cremoso]]
